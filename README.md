@@ -65,6 +65,14 @@ Compress images locally without uploads
 
 ---
 
+🔐 Entropy Vault
+
+A 100% private, offline-first security hub that generates deterministic entropy from your photos and audio to power a suite of security tools
+🔗
+https://sahildh3.github.io/entropy-vault/
+
+---
+
 🧠 Philosophy
 
 This project is built on a simple idea:
